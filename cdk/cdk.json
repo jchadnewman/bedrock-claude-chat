@@ -78,7 +78,11 @@
     "enableBotStore": true,
     "enableBotStoreReplicas": false,
     "botStoreLanguage": "en",
-    "globalAvailableModels": [],
+    "globalAvailableModels": [
+  "us.anthropic.claude-sonnet-4-6",
+  "us.anthropic.claude-haiku-4-5-20251001-v1:0",
+  "us.anthropic.claude-opus-4-6-v1"
+],
     "tokenValidMinutes": 30,
     "alternateDomainName": "",
     "hostedZoneId": "",
